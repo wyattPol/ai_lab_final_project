@@ -12,7 +12,7 @@ This project aims to demonstrate the performance of different machine learning m
 -  `Epochs`: 100
 -  `Learning Rate`: 0.001
 -  `Training dataset size`: 1400 sample data
--  
+  
 Visualization of generated data using first two informative features:
 ![data_visualization_two_features](assets/data_visualization.png)
 
