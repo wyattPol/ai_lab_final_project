@@ -12,6 +12,9 @@ This project aims to demonstrate the performance of different machine learning m
 -  `Epochs`: 100
 -  `Learning Rate`: 0.001
 -  `Training dataset size`: 1400 sample data
+-  
+Visualization of generated data using first two informative features:
+![data_visualization_two_features](assets/data_visualization.png)
 
 ## Methods
 
@@ -87,9 +90,6 @@ You can visualize the results and model performance using plots generated during
 - **Confusion Matrix**: To visualize how well the model classifies different classes.
 ![Accuracy Loss](assets/model_comparison.png)
 ![confusion Matrix](assets/confusion_matrix.png)
-
-Also including visualization of generated data using first two informative features:
-![data_visualization_two_features](assets/data_visualization.png)
 
 ## Conclusion
 
