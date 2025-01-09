@@ -1,3 +1,7 @@
+"""
+Created on 9 Jan 11:12:04 2025
+copyright@ wyattPol
+"""
 import os
 import numpy as np
 import torch
