@@ -11,7 +11,7 @@ This project aims to demonstrate the performance of different machine learning m
 ### Basic Training parameter Configs:
 -  `Epochs`: 100
 -  `Learning Rate`: 0.001
--  `Training set size`: 1400 sample data
+-  `Training dataset size`: 1400 sample data
 
 ## Methods
 
@@ -85,6 +85,11 @@ You can visualize the results and model performance using plots generated during
 - **Training vs. Validation Accuracy**: To compare how well each model performs on the training and validation sets.
 - **Training vs. Validation Loss**: To show the convergence of the models and identify potential overfitting.
 - **Confusion Matrix**: To visualize how well the model classifies different classes.
+![Accuracy Loss](assets/model_comparison.png)
+![confusion Matrix](assets/confusion_matrix.png)
+
+Also including visualization of generated data using first two informative features:
+![data_visualization_two_features](assets/data_visualization.png)
 
 ## Conclusion
 
